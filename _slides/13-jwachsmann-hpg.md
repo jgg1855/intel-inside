@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to jwachsmann-hpg's slide!"
 ---
 
-Caption here
+Metal future cat.
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
