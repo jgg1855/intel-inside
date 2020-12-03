@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to mcbanks12 slide"
 ---
 
 La Bamba - Hungry for some Mexican Food
