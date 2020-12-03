@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to mcbanks12 slide"
 ---
 
-Caption here
+La Bamba - Hungry for some Mexican Food
 
 ![octocat-de-los-muertos](https://octodex.github.com/images/octocat-de-los-muertos.jpg)
 {: .center}
