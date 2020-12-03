@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to DD's slide deck!"
+title: "Welcome to our slide deck!"
 ---
 
-Cool Cat
+Smart cat learning github.
 
 ![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
 {: .center}
